@@ -13,4 +13,4 @@ sonar-project.properties  export-ignore
 *.sql                     linguist-language=PLSQL
 *.tpb                     linguist-language=PLSQL
 *.tps                     linguist-language=PLSQL
-*.sh		                  text eol=lfh
+*.sh		                  text eol=lf
